@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Swanity",
+"dataUrl": "Build.data.unityweb",
+"asmCodeUrl": "Build.asm.code.unityweb",
+"asmMemoryUrl": "Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
