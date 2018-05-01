@@ -1,6 +1,6 @@
 # _Shrouded Woods_
 
-Welcome to _Shrouded Woods_, my entry for the [Mozzila WebVR Experience Challenge](). It is a short game/experience where you land in a seemingly empty space where you can reveal the environment around you with a magic paint gun. Aditionnaly, Robin Hood hid 12 targets you will need to find in record time.
+Welcome to _Shrouded Woods_, my entry for the [Mozzila WebVR Experience Challenge](https://challenges.mozilla.community/webvr-challenge/#body). It also won [an honorable mention](https://medium.com/mozilla-open-innovation/webvr-experience-challenge-winners-announced-5ecfac66c6ac), yay! It is a short game/experience where you land in a seemingly empty space where you can reveal the environment around you with a magic paint gun. Aditionnaly, Robin Hood hid 12 targets you will need to find in record time.
 
 ![Shrouded Woods](https://raw.githubusercontent.com/LeonardA-L/ShroudedWoods/master/ShroudedWoods.jpg)
 
